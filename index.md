@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hello there all computerized linguists! I am an open university student studying general linguistics in the Helsinki University at the moment and finishing this course of Command-line Tools for Linguists. I have worked witihin chemical engineering and material analysis earlier, for example in pilot-scale production and development of new products and materials. There is a picture of my cat on the front page. She is a 20-year-old creature that wakes me up every morning at about 5.30 am. 
 
 ## Find me on
 
