@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[GitHub](https://khjaaske.github.com
+[GitHub](https://khjaaske.github.com)
 
 ## Contact
 
