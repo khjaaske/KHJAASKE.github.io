@@ -27,4 +27,4 @@ My email address is of the form first_name.last_name@helsinki.fi.
 [Gotta Love Mushrooms](https://en.wikipedia.org/wiki/Edible_mushroom)
 [And Berries Too](https://en.wikipedia.org/wiki/List_of_fruit_dishes)
 
-<img src="assets/images/berrycake.jpg" alt="Photo" hspace="20" width="30%" align="right"/
+<img src="assets/images/berrycake.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
