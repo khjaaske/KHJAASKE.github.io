@@ -27,7 +27,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 One of my projects during my earlier years was to make a Newtonian telescope mirror of my own. So I, with a friend of mine, purchased two-centimeter-thick 20-cm diameter blocks of glass to be ground to mirrors. 
 So we read a guide book by Jari Turunen (Kaukoputken rakentajan käsikirja (ISBN 9519269290), 1985, 127 pages, in Finnish) and bought the materials needed to make our own Newtonian mirrors. 
-We worked in the basement (in the bomb shelter) of our institute after work and ground the glass blocks using aluminum oxide grinding powders (continuously finer grades) and measured the depth of the mirrors to define the focal length and then we measured the correct form of the mirror using a Ronchi grating in a dark room (available in our institute). 
+We worked in the basement (in the bomb shelter) of our institute after work and ground the glass blocks using aluminum oxide grinding powders (continuously finer grades) and measured the depth of the mirrors to define the focal length and then we measured the correct shape of the mirror using a Ronchi grating in a dark room (available in our institute). 
 
 After the coarse grinding we did the polishing of the mirror on a pitch tool that was the original counterpart of the first grinding, only coated with a pitch cover for a smooth surface polish and a cerium oxide polishing powder, always with deionised water for a lubricant.
  
