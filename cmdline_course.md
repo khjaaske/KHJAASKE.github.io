@@ -11,10 +11,21 @@ The course is lectured by the Department of Digital Humanities in the Faculty of
 Here is a list of the weekly contents of the course:
 
 * Week 1: Introduction to the Command Line
+
  	This is setting up the command line environment and using the basic commands and making text files with the Nano editor in Ubuntu.
+
 * Week 2: Navigating in a Unix based system
+
  	This consists of learning the Ubuntu directory system and moving and copying files from places to other places. It also discusses the user privileges and permissions and modifying them.
 
+Then there were the following topics:
 
+* Week 3: Intro to Corpus Processing
+* Week 4: Advanced Corpus Processing
+* Week 5: Scripting and Unix Configuration Files
+* Week 6: Installing and Running Programs
+* Week 7: Version Control and Final Assignment
 
-<img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hello there all computerized
+Here is a random image of a plaster wall:
+
+<img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
