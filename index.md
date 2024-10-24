@@ -16,7 +16,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## My Curriculum Vitae
 
-My curriculum vitae is [here].
+My curriculum vitae is [here](khjaaske.github.io/assets/documents/CV_khjaaske.pdf)
 
 <img src="assets/documents/CV_khjaaske.pdf">
 
