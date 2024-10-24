@@ -11,10 +11,10 @@ The course is lectured by the Department of Digital Humanities in the Faculty of
 Here is a list of the weekly contents of the course:
 
 * Week 1: Introduction to the Command Line
- * This is setting up the command line environment and using the basic commands and making text files with the Nano editor in Ubuntu.
+ 	This is setting up the command line environment and using the basic commands and making text files with the Nano editor in Ubuntu.
 * Week 2: Navigating in a Unix based system
- * This consists of learning the Ubuntu directory system and moving and copying files from places to other places. It also discusses the user privileges and permissions and modifying them.
+ 	This consists of learning the Ubuntu directory system and moving and copying files from places to other places. It also discusses the user privileges and permissions and modifying them.
 
 
 
-<img src="assets/images/My_cat.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hello there all computerized
+<img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hello there all computerized
