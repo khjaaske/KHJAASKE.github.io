@@ -26,6 +26,12 @@ Then there were the following topics:
 * Week 6: Installing and Running Programs
 * Week 7: Version Control and Final Assignment
 
+Week 3 was basic corpus processing with downloading text files, converting them to correct format and starting with regular expressions to try to find some strings from the texts.
+Week 4 continued the same further with commands such as grep and sed to modify text files into word lists or sentence per line formats. 
+During week 5 and configuration files things started to turn incomprehensible and the further the course continued the less I understood. Scripts: I don't really know how to work with them. 
+Week 6 was about installing more programmes into the Ubuntu system. Python was installed and NLTK databases were tested with part-of-speech tagging and automatic language recognition. 
+Finally week 7 was setting up a remote repository for any software that is created and a platforme for Internet pages was created and here it is tested then. So this is also about version control of the changes in the programming projects.
+
 
 TABLE 1. Momentum arm length of measured items in different planes.
 
@@ -41,19 +47,8 @@ KIK	1,17	0,94	1,85	2,41	3,12	SD
 CBW	1,20	0,99	0,99	2,13		V
 
 
-|N/A|p-aine|ohjaajat|matkustajat|tavarat| muut |laitteisto|
-|---|  --- |  ---   |    ---    |  ---  | ---  |  -----   | 
-|CKL| 1,17 |  0,94  |	1,85	| 2,41	|      |    S D   |
-|COE| 1,01 |  0,99  |	0,99	| 2,13	|      |   V F O  |
-|377| 0,95 |  0,40  |	0,40	| 1,35	| 2,00 |     V    |
-|382| 0,21 |  0,52  |	0,52	| 1,09	|      |     V    |
-|445| 0,92 |  0,50  |	0,50	| 1,27	|      |     V    |
-|KIK| 1,17 |  0,94  |	1,85	| 2,41	| 3,12 |    S D   |
-|448| 0,92 |  0,50  |	0,50	| 1,27	|      |     V    |
-|598| 1,05 |  0,43  |	0,43	| 1,19	|      |     V    |
-|CBW| 1,20 |  0,99  |	0,99	| 2,13	|      |     V    |
-
-
 Here is a random image of a plaster wall:
 
 <img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
+
+
