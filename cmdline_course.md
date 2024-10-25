@@ -32,6 +32,8 @@ During week 5 and configuration files things started to turn quite difficult for
 Week 6 was about installing more programmes into the Ubuntu system. Python was installed and NLTK databases were tested with **part-of-speech tagging and automatic language recognition. 
 Finally week 7 was setting up a remote repository for any software that is created and a platforme for Internet pages was created and here it is tested then. So this is also about version control of the changes in the programming projects.
 
+There is an example table 1 and a literature reference to the source of the table here as an exmaple.
+
 
 TABLE 1. Momentum arm length of measured items in different planes.[^1]
 
@@ -52,4 +54,4 @@ Here is a random image of a plaster wall as an example of inserting images:
 
 <img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
 
-[^1]: This would be a reference to the source of the table in the footnote.
+[^1]: Jackson, A. 2018. Momentum arm lengths of different items in planes. Proceedings of Physics. P. 202. CRC Press. Boca Raton USA. This would be a reference to the source of the table in the footnote

@@ -18,8 +18,6 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 My curriculum vitae is [here](khjaaske.github.io/assets/documents/CV_khjaaske.pdf)
 
-<img src="assets/documents/CV_khjaaske.pdf">
-
 ## Courses I've Taken
 
 [Kieli ja identiteetti](https://studies.helsinki.fi/kurssit/opintojakso/otm-256b594d-cdd8-4b1b-b266-cc427872b130?cpId=hy-lv-74) , autumn 2024
