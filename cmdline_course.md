@@ -26,14 +26,14 @@ Then there were the following topics:
 * Week 6: Installing and Running Programs
 * Week 7: Version Control and Final Assignment
 
-Week 3 was basic corpus processing with downloading text files, converting them to correct format and starting with regular expressions to try to find some strings from the texts.
+Week 3 was **basic corpus processing** with downloading text files, converting them to correct format and starting with regular expressions to try to find some strings from the texts.
 Week 4 continued the same further with commands such as grep and sed to modify text files into word lists or sentence per line formats. 
-During week 5 and configuration files things started to turn incomprehensible and the further the course continued the less I understood. Scripts: I don't really know how to work with them. 
-Week 6 was about installing more programmes into the Ubuntu system. Python was installed and NLTK databases were tested with part-of-speech tagging and automatic language recognition. 
+During week 5 and configuration files things started to turn quite difficult for me. **Scripts: I don't really know how to work with them.** 
+Week 6 was about installing more programmes into the Ubuntu system. Python was installed and NLTK databases were tested with **part-of-speech tagging and automatic language recognition. 
 Finally week 7 was setting up a remote repository for any software that is created and a platforme for Internet pages was created and here it is tested then. So this is also about version control of the changes in the programming projects.
 
 
-TABLE 1. Momentum arm length of measured items in different planes.
+TABLE 1. Momentum arm length of measured items in different planes.[^1]
 
 N/A|	p-aine|	ohjaajat|	matkustajat|	tavarat|	muut|	laitteisto|
 -- |  ----     |     ----   |   -------    |   ----   |  ------- |  -----       |
@@ -48,8 +48,8 @@ KIK|	1,17|	0,94|	1,85|	2,41|	3,12|	SD|
 CBW|	1,20|	0,99|	0,99|	2,13|	   |	V|
 
 
-Here is a random image of a plaster wall:
+Here is a random image of a plaster wall as an example of inserting images:
 
 <img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
 
-
+[^1]: This would be a reference to the source of the table in the footnote.
