@@ -52,6 +52,6 @@ CBW|	1,20|	0,99|	0,99|	2,13|	   |	V|
 
 Here is a random image of a plaster wall as an example of inserting images:
 
-<img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
+<img src="assets/images/plaster_wall.jpg" alt="Photo" hspace="20" width="30%" align="center"/>
 
 [^1]: Jackson, A. 2018. Momentum arm lengths of different items in planes. Proceedings of Physics. P. 202. CRC Press. Boca Raton USA. This would be a reference to the source of the table in the footnote
